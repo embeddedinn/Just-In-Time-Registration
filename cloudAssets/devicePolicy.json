@@ -22,6 +22,7 @@
       ],
       "Resource": [
         "arn:aws:iot:us-east-1:665136788521:topicfilter/${iot:Connection.Thing.ThingName}/*",
+        "arn:aws:iot:us-east-1:665136788521:topic/$aws/things/${iot:Connection.Thing.ThingName}/shadow/*",
         "arn:aws:iot:us-east-1:665136788521:topicfilter/$aws/things/${iot:Connection.Thing.ThingName}/shadow/*"
       ]
     }
