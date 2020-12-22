@@ -1,2 +1,2 @@
-# MasterClass-serverlessVoiceControl
-Material for the embeddedinn master class for building serverless voice controlled embedded systems
+# Just in time registration Lambda code
+Material for the embeddedinn youtube video on JITR process. 
